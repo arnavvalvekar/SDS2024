@@ -18,7 +18,7 @@ library(kableExtra)
 leprosy = read.csv("Homework2_leprosy.csv")
 ggleprosy = ggplot(leprosy)
 ```
-Hi Hi Hello
+bye bye goodbye
 
 Throughout this report, we will be investigating the prevalence of leprosy in countries around the globe in 2022.
 
